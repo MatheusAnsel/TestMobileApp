@@ -14,7 +14,6 @@ Projeto criado para praticar desenvolvimento mobile, estrutura de aplicações A
 
 ## Funcionalidades
 
-* Navegação entre telas
 * Interface mobile
 * Testes de funcionamento em Android
 * Geração de APK
